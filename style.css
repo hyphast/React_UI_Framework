@@ -1,0 +1,16 @@
+.clock .icon {
+    display: inline-block;
+    vertical-align: middle;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+
+.clock .icon.day {
+    background-color: blue;
+}
+
+.clock .icon.nigth {
+    background-color: orange;
+}
